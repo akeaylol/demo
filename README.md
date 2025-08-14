@@ -1,2 +1,3 @@
 # demo
-Learining GIT
+Learining GIT.
+Author: AKeay
